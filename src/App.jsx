@@ -112,6 +112,42 @@ function App() {
           </div>
           <div className="stories-content">
             <div className="stories-body-lop">
+              <h3>Năm lớp 6:</h3>
+              <p>Năm lớp 6 là một năm vô cùng bở ngõ đối với chúng tôi. Chúng tôi bước vào mái trường cấp hai với sự lo âu và đôi phần sợ hãi. Rời xa mái trường cấp một ấm áp và bình yên, chúng tôi rụt rẽ bước vào ngày khai giảng năm đầu cấp với sự nôn nao khó tả. Được thầy cô và anh chị dắt tay tiến vào cổng trường, chúng tôi đi qua ánh mắt "phán xét" của hàng nghìn anh chị, thứ đã làm chúng tôi hãi hùng. Thực tình, năm học ấy cũng chả có gì quá nhiều bởi chúng tôi cũng chư quen biết gì nhau, những kỉ niệm chỉ thoáng qua nhẹ nhàng, chẳng để lại nhiều ấn tượng. Nhưng cũng vì vậy, tình bạn chúng tôi lúc ấy là trong sáng và hồn nhiên nhất</p>
+              <div className="stories-body-wrapper-img-and-text">
+                <div className="stories-wrapper-content">
+                  <div className="stories-img-wrapper">
+                    <br />
+                    <img src="/anhbaotang6.jpg" alt="Đại hội chi đội" />
+                  </div>
+                  <div className="stories-text-wrapper">
+                    <br />
+                    <p>Bảo tàng là một nơi trưng bày những di tích, hiện vật lịch sử của một vùng đất nào đó. Đầu năm học, chúng tôi được trường cho đi tham quan bảo tàng tỉnh Quảng Nam, nơi lưu giữ những hiện vật từ thời Chăm Pa của vùng đất này. Mỗi người chúng tôi tự đi xe đạp hoặc bố mẹ chở lên đây, tập hợp lại, bỏ vật dụng cá nhân vào một hộp tủ, sau đó thì mỗi người một bút và sổ nhỏ ghi chép đi tham quan theo cô hướng dẫn. Chúng tôi đi từ tầng một đến tầng ba, trải qua những hiện vật cổ kính như tượng Phù điêu vũ nữ Apsara, nhà sàn, súng trường, mộ chum, những tảng đấ, tranh vẽ, bom, đạn, trang bị chiến đấu,... và cả được xem trình chiếu về văn hóa Sa huỳnh. Cuối cùng, các cô hướng dẫn tổ chức trò chời cho chúng tôi chơi và lấy giải thưởng. </p>
+                  </div>
+                </div>
+                <p>Năm lớp 6 cũng chả có gì nhiều. Năm này, bọn tôi còn sợ sệt và rụt rè nên không chơi với nhau quá nhiều. Đặc biệt, năm này giải thể thao cũng có thể gọi là một thành công. Nhất nam nữ cờ vua (Trần Hoàng bách, Nguyễn Khánh Vy), nhì hay ba giai bơi tự do và ếch (Nguyễn Phan Việt Hoàng), nhì bóng bàn (Nguyễn Phan Việt Hoàng) và các thành tích cao trong bóng đá, cầu lông. Năm này, nhiều bạn như Trần Hoàng Bách, Nguyễn Phan Vệt Hoàng còn được tham dự vòng thi hội khỏe phù đổng cấp quốc gia. </p>
+                <p>Năm này, chúng tôi còn có 6 bạn thi học sinh giỏi cấp thành phố: Lê Trọng Minh Tú (toán), Bùi Kim Ngân (Tiếng Anh), Trần Ngọc Gia Bảo (Tiếng Anh), Nguyễn Phan Việt Hoàng (tiếng Anh), Trịnh Minh An (Văn), Nguyễn Lê Như Ngọc (Văn). Trong đó, cả 6 thí sinh đều đoạt giải từ khuyến khích đến nhất (Bùi Kim Ngân).</p>
+                <div className="stories-wrapper-content">
+                  <div className="stories-img-wrapper">
+                    <br />
+                    <img src="/anhtongket6.jpg" alt="Tổng kết 6" />
+                  </div>
+                  <div className="stories-text-wrapper">
+                    <br />
+                    <p>Tổng kết năm học 2023-2024, nhà trường, ban phân hội, và cô Ái Ca trao phần thưởng cuối năm cho các học sinh. Tổng số học sinh đạt danh hiệu HSG + Xuất sắc khoảng 70% số lượng học sinh của lớp. Tổng kết năm học đầu cấp, tất cả học sinh đều lên lớp và đạt chỉ tiêu đại hội đã nêu ra đầu năm. Bọn tôi vô cùng háo hức chờ đợi ngày bế giảng và mùa hè ấm áp sắp tới.</p>
+                  </div>
+                </div>
+                <div className="stories-wrapper-content">
+                  <div className="stories-img-wrapper">
+                    <br />
+                    <img src="/anhbegiang6.jpg" alt="Bế giảng 6"/>
+                  </div>
+                  <div className="stories-text-wrapper">
+                    <br />
+                    <p>Bế giảng năm học này là một cột mốc đặc biệt vì nó ghi dấu sự kết thúc của năm học đầu tiên mà chúng tôi được học bên nhau. Nhiều bạn được lên trước toàn thể học sinh nhận giấy khen. Sau buổi bế giảng ấy, bọn tôi về lớp chụp hình và nói chuyện vui vẻ một tí nữa trước khi đi về. Khép lại hành trình đầu tiên, bọn tôi bắt tay nhau thật chặt và hẹn gặp lại nhau trong năm sau. </p>
+                  </div>
+                </div>
+              </div>
               <h3>Năm lớp 7:</h3>
               <p>Vào năm lớp 7, một năm học chúng tôi đã có thể nói là bạn bè của nhau và biết nhau được một năm. Mọi thứ đều trở nên vô cùng dễ chịu và quan thuộc đối với chúng tôi. Sau mùa hè ấm áp, chúng tôi trở lại với sự hào hứng và sẵn sàng cho một năm học mới. Chúng tôi nhìn mặt nhau mà tự hỏi "Sao các cậu lại lớn nhanh đến vậy?". Với sự chèo lái của cô Phạm thị Thanh Hướng, lớp 7/2 giông buồm ra biển lớn và đạt được những thành công nhất định. Năm ấy quả là ki diệu, lớp tôi đã đạt được những thành tích vô tiền khoáng hậu vầ có lẽ sẽ rất rất khó để tái hiện được, như cách mà U23 Việt Nam đề vì nhì giải châu Á năm 2019 vậy. Đối với tôi, năm ấy là một năm thật cảm xúc và thanh xuân. Chưa bao giò tôi trải qua một năm ấm áp và vui nhộn đến vậy. Là một người đã ngồi học 8 năm (không tính mẫu giáo), tôi chưa từng có một kỉ niệm nào hạnh phúc hơn khoảng thời gian ấy</p>
               <div className="stories-body-wrapper-img-and-text">
