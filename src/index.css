@@ -29,7 +29,9 @@
     font-size: 16px;
   }
 }
-
+html {
+  scroll-behavior: smooth;
+}
 @media (prefers-color-scheme: dark) {
   :root {
     --text: #9ca3af;
@@ -49,7 +51,6 @@
     filter: invert(1) brightness(2);
   }
 }
-
 
 #root {
   width: 1126px;

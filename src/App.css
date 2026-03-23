@@ -1,6 +1,3 @@
-body{
-  height: 10000vh;
-}
 .navbar {
   position: fixed;
   bottom: 20px;
@@ -294,6 +291,96 @@ img:hover {
   padding: 5px;
   margin: 5px;
 }
+/*SUMMARY*/
+.summary-intro-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.summary-content-wrapper {
+  display: flex;
+  flex-direction: column;
+  border: solid grey 3px;
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(178, 160, 160, 0.2);
+  padding: 10px;
+  margin: 5px;
+}
+.p-content-sum {
+  color: #cccccc;
+}
+.summary-video-container {
+  margin: 5px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.summary-video-wrapper-container {
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+  position: relative;
+  width: 50%;
+  height: auto;
+}
+.summary-content-wrapper-container {
+  display: flex;
+  justify-content: center;
+  text-align: justify;
+  width: 50%;
+}
+.summary-video {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+}
+.footer {
+  background: #0f172a;
+  color: #e2e8f0;
+  padding: 40px 20px 10px;
+}
+
+.footer-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.footer-col h2,
+.footer-col h3 {
+  margin-bottom: 10px;
+}
+
+.footer-col p,
+.footer-col a {
+  font-size: 14px;
+  color: #94a3b8;
+  text-decoration: none;
+  display: block;
+  margin: 5px 0;
+}
+
+.footer-col a:hover {
+  color: #38bdf8;
+}
+
+.footer-bottom {
+  text-align: center;
+  margin-top: 30px;
+  font-size: 13px;
+  color: #64748b;
+  border-top: 1px solid #1e293b;
+  padding-top: 10px;
+}
+.footer-address {
+  font-weight: bold;
+}
+
 /* ================== RESPONSIVE ================== */
 
 /* Tablet */
@@ -384,6 +471,25 @@ img:hover {
   .stories-img-wrapper,
   .stories-text-wrapper {
     width: 100%;
+  }
+  /*SUMMARY*/
+  .summary-video-container {
+    display: flex;
+    flex-direction: column;
+  }
+  .summary-video-wrapper-container {
+    width: 90%;
+    border-radius: 20px;
+    padding: 5px;
+  }
+  .summary-content-wrapper-container {
+    width: 90%;
+    padding: 5px;
+  }
+  /*FOOTER*/
+  .footer-container {
+    grid-template-columns: 1fr;
+    text-align: center;
   }
 }
 
