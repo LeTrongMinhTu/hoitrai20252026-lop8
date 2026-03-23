@@ -208,12 +208,58 @@ function App() {
                 <div className="stories-wrapper-content">
                   <div className="stories-img-wrapper">
                     <br />
-                    <img src="/begiang7.jpg" alt="Mừng Đảng mừng Xuân" />
+                    <img src="/begiang7.jpg" alt="Bế giảng lớp 7" />
                     
                   </div>
                   <div className="stories-text-wrapper">
                     <br />
                     <p>Kết thúc chuyến hành trình kì diệu này, lễ bế giảng diễn ra vào ngày 27-5-2025 đã chấm dứt hành trình năm lớp 7 vô cùng đặc biệt và hạnh phúc. Bạn Lê Trọng Minh Tú dành được giải học sinh nhì khối 7 trong năm học này, càng tô điểm thêm cho khối thành tích lớp. Sau buổi bế giảng, chúng tôi bắt tay nhau tạm biệt, hẹn gặp lại. Bước vào 3 tháng nghỉ hè, chúng tôi lập kế hoạch cho sự lột xác vào năm sau. Mỗi bạn là một "đống" thành tích tên tay, "mảnh kí ức" của chúng tôi kết thúc như vậy đấy, mở ra một kỉ nguyên nữa sắp sửa chào đón chúng tôi vào năm học sắp tới.</p>
+                  </div>
+                </div>
+              </div>
+              <div className="stories-body-wrapper-img-and-text">
+                <h3>Năm lớp 8:</h3>
+                <p>Năm lớp 8 này cũng thật là vui. Dù bọn mình chưa đi hết cuộc hành trình này nhưng bọn tôi đã quên thuộc và hiểu biết với nhau thật nhiều. Bọn tôi trong năm nay thật sự hào hứng và vui nhộn. Dù năm học chưa kết thúc nhưng đến bấy giờ, bọn tôi đã tạo nên được những kỉ niệm độc đáo. Từ những buổi tập luyện bóng đá và bóng chuyền chăm chỉ, đến những giờ các bạn nam tổ chức 20-10, 8-3 cho các bạn nữ, rồi các bạn nữ lại tổ chức 19-11 lại cho các bạn nam, lớp tôi năm nay vui nhộn biết bao. Năm nay có lẽ không ki niệm như năm lớp 7, nhưng năm nay tập thể lớp 8/2 thể hiện tinh thần đoàn kết và yêu thương nhau.</p>
+                <div className="stories-wrapper-content">
+                  <div className="stories-img-wrapper">
+                    <br />
+                    <img src="/Daunam8.jpg" alt="Đầu năm lớp 8" />
+                  </div>
+                  <div className="stories-text-wrapper">
+                    <br />
+                    <p>Mở đầu năm học lớp 8, lớp tôi đựo chèo lái bởi cô Võ Thị Mỹ Thuận đầy nhiệt huyết và năng lượng. Lớp đã chuyển đi ba bạn: Diệu Huyền, Minh Quân và Bảo Hân nhưng có thêm bạn Lê Phan Quang long từ Đã Năng do sự sáp nhập tỉnh. Đâu ai biết rằng đây sẽ là khởi đầu của một cuộc hành trình đầy ấn tượng. Bọn tôi vui vẻ chào đón nhau và tràn đầy năng lượng cho năm học mới.</p>
+                  </div>
+                </div>
+                <div className="stories-wrapper-content">
+                  <div className="stories-img-wrapper">
+                    <br />
+                    <img src="/Tapluyenbongda8.jpg" alt="Tập luyện bóng đá lớp 8" />
+                  </div>
+                  <div className="stories-text-wrapper">
+                    <br />
+                    <p>Thể thao là một trong những thứ rất quan trọng trong đời mỗi con người, đặc biệt là học sinh. Nó khơi gợi sơ thích và niềm tin trong bạn trẻ, rèn luyện thể dục thể thao giúp các bạn phát triển sức khỏe. Trong năm học này, bọn tôi đã được thi đấu thêm môn nhảy xa, nhảy cao và bóng chuyền. Bọn tôi phải đi tập luyện liên tục, nhưng bọn tôi vẫn rất vui vẻ và tràn đầy sức chiến đấu.</p>
+                  </div>
+                </div>
+                <div className="stories-wrapper-content">
+                  <div className="stories-img-wrapper">
+                    <br />
+                    <img src="/Chiendau8.jpg" alt="Trận chiến lớp 8" />
+                  </div>
+                  <div className="stories-text-wrapper">
+                    <br />
+                    <p>Trong những trận thể thao, lớp học không chỉ thi đấu bằng sức lực mà còn bằng tinh thần đoàn kết và ý chí kiên cường. Mỗi thành viên đều hiểu rằng chiến thắng không đến từ cá nhân xuất sắc nhất mà từ sự phối hợp nhịp nhàng của cả tập thể. Dù gặp đối thủ mạnh hay rơi vào thế bất lợi, cả lớp vẫn luôn giữ vững tinh thần, động viên nhau từng chút một, không bỏ cuộc giữa chừng. Những tiếng hò reo, cổ vũ từ bên ngoài sân càng tiếp thêm động lực để các bạn thi đấu hết mình. Chính sự gắn kết, quyết tâm và niềm tin vào nhau đã giúp lớp vượt qua khó khăn, chiến đấu đến giây phút cuối cùng và để lại những kỷ niệm đáng nhớ.</p>
+                    <br />
+                    <p>Trong giải thể thao năm nay, vẫn là Bách và Hoàng là hai vận động viên xuất sắc được dự thi thành phố và đạt giải cao ở các bộ môn cờ vua, bơi lội và bóng bàn. Ngoài ra, những giải khác vẫn có nhưng có lẽ không quá nổi bật đâu! Dù sao thì bọn tôi vẫn đã nổ lực hết sức và tự hào về những thành quả của mình. Lớp 8/2 không cần những chiến tích "đi bằng cửa sau", bọn tôi tự lực và tự hào về nó!!!</p>
+                  </div>
+                </div>
+                <div className="stories-wrapper-content">
+                  <div className="stories-img-wrapper">
+                    <br />
+                    <img src="/Trungthu8.jpg" alt="Trung thu" />
+                  </div>
+                  <div className="stories-text-wrapper">
+                    <br />
+                    <p>Lễ hội Trung thu do trường tổ chức cũng là một lễ hội vui mà lớp 8/2 đã tham gia. Trong nhóm làm lồng đèn có 5 bạn Gia bảo, Kim Ngân, Minh An, Uyên Phương, Như Ngọc tham gia. Bọn tôi tập trung lại chuẩn bị cho mặt trăng tự làm cho cuộc thi ở nhà Uyên Phương vào mỗi sáng. Mỗi người mang kiến thức và nhiệt huyết bên trong mình để góp phần hoàn thành cuộc thi. Với sự trình bày sôi động của hai bạn Gia bảo, Kim Ngân, "mặt trăng của lớp 8/2 " hiện ra như là một mặt trăng thật sự, nhưng cũng là một tác phẩm vô cùng quý giá do mỗi con người của lớp cấu tạo nên.</p>
                   </div>
                 </div>
               </div>
