@@ -283,6 +283,11 @@ img:hover {
   height: auto;
   border-radius: 12px;
 }
+.stories-img-wrapper video {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+}
 .stories-text-wrapper {
   width: 50%;
   height: auto;

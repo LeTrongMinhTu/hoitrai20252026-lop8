@@ -262,6 +262,61 @@ function App() {
                     <p>Lễ hội Trung thu do trường tổ chức cũng là một lễ hội vui mà lớp 8/2 đã tham gia. Trong nhóm làm lồng đèn có 5 bạn Gia bảo, Kim Ngân, Minh An, Uyên Phương, Như Ngọc tham gia. Bọn tôi tập trung lại chuẩn bị cho mặt trăng tự làm cho cuộc thi ở nhà Uyên Phương vào mỗi sáng. Mỗi người mang kiến thức và nhiệt huyết bên trong mình để góp phần hoàn thành cuộc thi. Với sự trình bày sôi động của hai bạn Gia bảo, Kim Ngân, "mặt trăng của lớp 8/2 " hiện ra như là một mặt trăng thật sự, nhưng cũng là một tác phẩm vô cùng quý giá do mỗi con người của lớp cấu tạo nên.</p>
                   </div>
                 </div>
+                <div className="stories-wrapper-content">
+                  <div className="stories-img-wrapper">
+                    <br />
+                    <img src="/Baodoi8.jpg" alt="Báo đội" />
+                  </div>
+                  <div className="stories-text-wrapper">
+                    <br />
+                    <p>Hoạt động làm báo đội là một trong những dịp để cả lớp thể hiện tinh thần đoàn kết, sáng tạo và trách nhiệm với tập thể. Mỗi thành viên đều góp phần vào từng trang báo, từ việc lên ý tưởng, viết bài, vẽ minh họa cho đến trang trí và hoàn thiện sản phẩm. Dù có những lúc gặp khó khăn hay bất đồng ý kiến, cả lớp vẫn cùng nhau bàn bạc, lắng nghe và hỗ trợ để đạt được kết quả tốt nhất. Không chỉ là một sản phẩm dự thi, tờ báo đội còn chứa đựng tình cảm, sự cố gắng và dấu ấn riêng của tập thể. Qua đó, mỗi người thêm hiểu nhau hơn, gắn bó hơn và cùng nhau tạo nên một kỷ niệm đẹp trong quãng đời học sinh.</p>
+                  </div> 
+                </div>
+                <div className="stories-wrapper-content">
+                  <div className="stories-img-wrapper">
+                    <br />
+                    <img src="/Landauduocnhattuan8.jpg" alt="Lần đầu được nhất tuần" />
+                  </div>
+                  <div className="stories-text-wrapper">
+                    <br />
+                    <p>Lần đầu tiên lớp được nhận danh hiệu nhất tuần (tuần 2) là một khoảnh khắc đáng nhớ và đầy tự hào đối với cả tập thể. Đó không chỉ là kết quả của những cố gắng trong học tập, nề nếp mà còn là minh chứng cho tinh thần đoàn kết và sự quyết tâm của từng thành viên. Từ những việc nhỏ như giữ gìn vệ sinh, chấp hành nội quy đến việc học tập chăm chỉ, tất cả đều được cả lớp cùng nhau thực hiện nghiêm túc. Khi tên lớp được xướng lên, niềm vui vỡ òa, ai cũng cảm thấy công sức của mình đã được ghi nhận. Thành tích ấy không chỉ mang lại niềm tự hào mà còn trở thành động lực để lớp tiếp tục cố gắng, giữ vững tinh thần và hướng đến những kết quả tốt hơn trong những tuần tiếp theo.</p>
+                  </div> 
+                </div>
+                <div className="stories-wrapper-content">
+                  <div className="stories-img-wrapper">
+                    <br />
+                    <img src="/Hopphuhuynh8.jpg" alt="Họp phụ huynh giữa kì I" />
+                  </div>
+                  <div className="stories-text-wrapper">
+                    <br />
+                    <p>Buổi họp phụ huynh lớp 8/2 là dịp để gia đình và nhà trường cùng nhìn lại chặng đường học tập, rèn luyện của tập thể lớp. Không khí buổi họp diễn ra trong sự nghiêm túc nhưng cũng rất gần gũi, khi giáo viên chia sẻ về tình hình học tập, nề nếp và những tiến bộ của học sinh. Qua đó, phụ huynh hiểu rõ hơn về quá trình cố gắng của con em mình cũng như những điểm cần cải thiện. Đây không chỉ là cuộc trao đổi thông tin mà còn thể hiện sự đồng hành giữa gia đình và nhà trường trong việc giáo dục học sinh. Chính sự phối hợp ấy đã góp phần tạo nên một tập thể 8/2 ngày càng đoàn kết, chăm ngoan và phát triển toàn diện.</p>
+                  </div> 
+                </div>
+                <div className="stories-wrapper-content">
+                  <div className="stories-img-wrapper">
+                    <br />
+                    <img src="/Nhungcauchuyenhai8.jpg" alt="Những câu chuyện hài" />
+                  </div>
+                  <div className="stories-text-wrapper">
+                    <br />
+                    <p>Buổi diễn với những câu chuyện hài đã mang đến cho lớp 8/2 một không khí vô cùng sôi động và đầy tiếng cười. Các tiết mục được chuẩn bị công phu bởi các tổ, từ nội dung dí dỏm đến cách thể hiện tự nhiên, khiến ai cũng thích thú và hào hứng theo dõi. Không chỉ đơn thuần là những màn biểu diễn giải trí, đó còn là cơ hội để bọn tôi thể hiện sự sáng tạo, sự tự tin và tinh thần làm việc nhóm. Những tràng cười giòn giã không chỉ xua tan căng thẳng trong học tập mà còn giúp các thành viên trong lớp thêm gần gũi, gắn bó với nhau hơn. Buổi diễn khép lại nhưng dư âm vui vẻ vẫn còn đọng lại, mỗi bạn được cộng thêm 1 điểm, tổ 2 tốt nhất được cộng 2 điểm. Tất cả đã trở thành một kỷ niệm đẹp trong hành trình học tập của tập thể lớp.</p>
+                  </div> 
+                </div>
+                <div className="stories-wrapper-content">
+                  <div className="stories-img-wrapper">
+                    <br />
+                    <video
+                      src="/Muahattapthe8.mp4" alt="Múa hát tập thể"
+                      controls
+                      poster="POSTER_VIDEO_MHTT"
+                      muted
+                    />
+                  </div>
+                  <div className="stories-text-wrapper">
+                    <br />
+                    <p>Buổi tập múa hát tập thể của lớp là khoảng thời gian đầy sôi động và gắn kết. Dù ban đầu còn nhiều bỡ ngỡ, động tác chưa đều hay nhịp chưa khớp, nhưng lớp tôi luôn kiên nhẫn luyện tập, chỉnh sửa từng chút một. Mỗi người đều cố gắng hoàn thành phần của mình, đồng thời hỗ trợ, nhắc nhở nhau để bài biểu diễn trở nên đồng đều và đẹp mắt hơn. Những tiếng cười xen lẫn sự tập trung nghiêm túc đã tạo nên một không khí vừa vui vẻ vừa ý nghĩa. Qua mỗi buổi tập, không chỉ kỹ năng được cải thiện mà tinh thần đoàn kết của lớp cũng ngày càng bền chặt, để rồi khi đứng trên sân khấu, tất cả cùng tự tin thể hiện hết mình và tạo nên một tiết mục đáng nhớ.</p>
+                  </div> 
+                </div>
               </div>
             </div>  
           </div>
