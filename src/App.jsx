@@ -94,11 +94,11 @@ function App() {
                   <span className="tree-name"><h3>Bùi Kim Ngân</h3></span>
                 </div>
                 <div className="tree-role">
-                  <h3>Tổ trưởng tổ 2</h3>
-                  <span className="tree-name"><h3>Nguyễn Khánh Vy</h3></span>
+                  <h3>Tổ trưởng tổ 3</h3>
+                  <span className="tree-name"><h3>Nguyễn Phan Việt Hoàng</h3></span>
                 </div>
                 <div className="tree-role">
-                  <h3>Tổ trưởng tổ 2</h3>
+                  <h3>Tổ trưởng tổ 4</h3>
                   <span className="tree-name"><h3>Trịnh Minh An</h3></span>
                 </div>
               </div>
@@ -308,7 +308,7 @@ function App() {
                     <video
                       src="/Muahattapthe8.mp4" alt="Múa hát tập thể"
                       controls
-                      poster="POSTER_VIDEO_MHTT"
+                      poster="POSTER_VIDEO_MHTT.png"
                       muted
                     />
                   </div>
@@ -316,6 +316,46 @@ function App() {
                     <br />
                     <p>Buổi tập múa hát tập thể của lớp là khoảng thời gian đầy sôi động và gắn kết. Dù ban đầu còn nhiều bỡ ngỡ, động tác chưa đều hay nhịp chưa khớp, nhưng lớp tôi luôn kiên nhẫn luyện tập, chỉnh sửa từng chút một. Mỗi người đều cố gắng hoàn thành phần của mình, đồng thời hỗ trợ, nhắc nhở nhau để bài biểu diễn trở nên đồng đều và đẹp mắt hơn. Những tiếng cười xen lẫn sự tập trung nghiêm túc đã tạo nên một không khí vừa vui vẻ vừa ý nghĩa. Qua mỗi buổi tập, không chỉ kỹ năng được cải thiện mà tinh thần đoàn kết của lớp cũng ngày càng bền chặt, để rồi khi đứng trên sân khấu, tất cả cùng tự tin thể hiện hết mình và tạo nên một tiết mục đáng nhớ.</p>
                   </div> 
+                </div>
+                <div className="stories-wrapper-content">
+                  <div className="stories-img-wrapper">
+                    <br />
+                    <img src="/20-10-8.jpg" alt="Ngày 20-10 tại lớp 8/2" />
+                  </div>
+                  <div className="stories-text-wrapper">
+                    <br />
+                    <p>Nhân dịp ngày 20-10, lớp đã tổ chức những hoạt động đầy ý nghĩa để tri ân các bạn nữ và cô giáo. Không khí trở nên rộn ràng hơn với những lời chúc tốt đẹp, những món quà nhỏ nhưng chứa đựng tình cảm chân thành. Các bạn nam đã cùng nhau chuẩn bị chu đáo, từ việc trang trí lớp học đến tổ chức các tiết mục vui nhộn, tạo nên một ngày đáng nhớ. Đây không chỉ là dịp để thể hiện sự quan tâm, tôn trọng mà còn giúp gắn kết tình cảm giữa các thành viên trong lớp. Buổi kỷ niệm khép lại trong niềm vui và tiếng cười, để lại những kỷ niệm đẹp về một tập thể lớp ấm áp, đoàn kết và tràn đầy yêu thương.</p>
+                  </div> 
+                </div>
+                <div className="stories-wrapper-content">
+                  <div className="stories-img-wrapper">
+                    <br />
+                    <img src="/20-11-8.jpg" alt="Ngày 20-11 tại lớp 8/2" />
+                  </div>
+                  <div className="stories-text-wrapper">
+                    <br />
+                    <p>Với sự biết ơn từ lần được tổ chức trước, các bạn nữ lên kế hoạch tổ chức 19 và 20 tháng 11 cho cô và các bạn nam vào một ngày. Bạn Vy đã lên tặng hoa cho cô, mở đầu cho sự kiện này. Các bạn nam vô cùng vui sướng trước sự kiện này. Riêng có hai bạn nam (dấu tên) được các bạn nữ tặng những món quà vô cùng giá trị là một đôi giày bóng đá và mô hình sân vận động. Cũng qua đó, cả lớp tổ chức 20/11 cho cô Thuận, với những lời chúc nồng ấm và món quà "nghèo vật chất giàu tinh thần", các bạn đã trao cả tấm lòng cho cô giáo và bạn nam lớp tôi.</p>
+                  </div> 
+                </div>
+                <div className="stories-wrapper-content">
+                  <div className="stories-img-wrapper">
+                    <br />
+                    <img src="/Muasap8.jpg" alt="Ngày 20-11 tại lớp 8/2" />
+                  </div>
+                  <div className="stories-text-wrapper">
+                    <br />
+                    <p>Trong thời gian chuẩn bị hội trại, lớp đã cùng nhau tập múa sạp với tinh thần hào hứng và đoàn kết. Từng động tác được luyện tập kỹ lưỡng, dù còn nhiều khó khăn nhưng ai cũng cố gắng hết mình. Không khí buổi tập luôn vui vẻ, tràn ngập tiếng cười và sự quyết tâm. Ai cũng mong chờ được thể hiện tiết mục trước toàn trường. Thế nhưng, khi nhà trường thông báo bỏ phần thi múa sạp, cả lớp đều cảm thấy hụt hẫng. Bao công sức và sự chuẩn bị dường như không còn cơ hội thể hiện. Nhưng dù sao nó cũng tạo nền tảng để lớp tôi tập múa hát tập thể về sau. Dù vậy, những kỷ niệm cùng nhau tập luyện vẫn trở nên vô cùng đáng quý. Đó chính là điều gắn kết và để lại dấu ấn đẹp trong lòng mỗi thành viên.</p>
+                  </div> 
+                </div>
+                <div className="stories-wrapper-content">
+                  <div className="stories-img-wrapper">
+                    <br />
+                    <img src="/Lambaotuong8.jpg" alt="Làm báo tường 8" />
+                  </div>
+                  <div className="stories-text-wrapper">
+                    <br />
+                    <p>Trong quá trình chuẩn bị cho hội trại, lớp đã cùng nhau làm báo tường với tinh thần hào hứng và sáng tạo. Mỗi thành viên đều đóng góp ý tưởng, từ viết bài, vẽ tranh đến trang trí, tạo nên một sản phẩm mang đậm dấu ấn tập thể. Dù gặp không ít khó khăn trong việc thống nhất nội dung và bố cục, cả lớp vẫn cùng nhau bàn bạc và hoàn thiện từng chi tiết. Không khí làm việc vừa nghiêm túc vừa vui vẻ, gắn kết mọi người lại với nhau. Tờ báo tường không chỉ là sản phẩm dự thi mà còn là nơi lưu giữ những kỷ niệm đẹp. Qua đó, tinh thần đoàn kết và trách nhiệm của lớp được thể hiện rõ nét. Dù kết quả ra sao, những gì cả lớp đã cùng nhau tạo nên vẫn vô cùng ý nghĩa.</p>
+                  </div>
                 </div>
               </div>
             </div>  
